@@ -1,1 +1,2 @@
-# ssg_workshop
+# gatsbyjs-workshop
+Mini Workshop using Gatsbyjs
